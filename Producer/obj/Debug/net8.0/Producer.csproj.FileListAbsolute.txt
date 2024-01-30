@@ -1,0 +1,17 @@
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\bin\Debug\net8.0\Producer.exe
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\bin\Debug\net8.0\Producer.deps.json
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\bin\Debug\net8.0\Producer.runtimeconfig.json
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\bin\Debug\net8.0\Producer.dll
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\bin\Debug\net8.0\Producer.pdb
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.csproj.AssemblyReference.cache
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.AssemblyInfoInputs.cache
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.AssemblyInfo.cs
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.csproj.CoreCompileInputs.cache
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.csproj.CopyComplete
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.dll
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\refint\Producer.dll
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.pdb
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\Producer.genruntimeconfig.cache
+C:\Adriano\Projetos\RabbitMQ\ProducerConsumer\Producer\Producer\obj\Debug\net8.0\ref\Producer.dll

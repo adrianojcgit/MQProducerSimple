@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2g9UXUbmXbjIhrlch7neOxLvLl/akgMAl+i0TtjJ1MqJsoCGDXzOfAiLyorVguTgINgHmCzfnMXb5yeHqWrKGA==",
+  "success": true,
+  "projectFilePath": "C:\\Adriano\\Projetos\\RabbitMQ\\ProducerConsumer\\Producer\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
